@@ -16,7 +16,7 @@ A passionate software engineering student from Alx - Holberton.
 
 </p>
 
- ### Read my blogs <a href="https://mila.hashnode.dev/">here</a> at Hashnode
+ ### Read mytechnical blogs <a href="https://mila.hashnode.dev/">here</a> at Hashnode
  
  <br/>
  
