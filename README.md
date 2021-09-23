@@ -1,11 +1,12 @@
 
 ## Hi there 👋 I'm Jamila Moseka
 
-I am software engineering student from Alx - Holberton. I am passionate in Web and Mobile Development
+A passionate software engineering student from Alx - Holberton.
 
 - 🔭 I’m currently working on C projects
 - 🌱 I’m currently learning C programming language
 - 📫 How to reach me **jamylam3@gmail.com**
+ - 💬 Ask me about C programming
 
 ### Connect with me:
 <p align="left">
@@ -20,8 +21,6 @@ I am software engineering student from Alx - Holberton. I am passionate in Web a
  <br/>
  
  ![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=nightowl&show_icons=true)
-
-
     
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoseka&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
