@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Jamila Moseka
 
-A passionate software engineering student from Alx - Holberton.
+A passionate software engineering student at Alx - Holberton.
 
 - 🔭 I’m currently working on C projects
 - 🌱 Learning C programming language
