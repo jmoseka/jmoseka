@@ -6,7 +6,8 @@ A passionate software engineering student at Alx - Holberton.
 - 🔭 I’m currently working on C projects
 - 🌱 Learning C programming language
 - 📫 Reach me on **jamylam3@gmail.com**
- - 💬 Ask me about C programming
+- 💬 Ask me about C programming
+- 🤔 I’m looking for help with C programming language, Python, JS, Front End Development Technologies
 
 ### Connect with me:
 <p align="left">
