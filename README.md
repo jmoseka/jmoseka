@@ -17,6 +17,10 @@ A passionate software engineering student at Alx - Holberton.
 
 </p>
 
+### Sample Project
+
+<img src="https://i.postimg.cc/ZRtwmnvp/20210928-223854.gif">
+
  <b>Read my technical blogs <a href="https://hashnode.com/@Mila/">here</a> at Hashnode</b>
 
  ### Github Stats
