@@ -19,21 +19,21 @@ A passionate software engineering student at Alx - Holberton.
 
  #### Read my technical blogs <a href="https://hashnode.com/@Mila/">here</a> at Hashnode
 
-
-
-
-
- 
- 
   ### Most Used Languages
   
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoseka&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  
+ 
   <p>
 <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
  <br/>
  </p>
+ 
+  ### Github Stats
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=nightowl)](https://git.io/streak-stats)
+               ![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=nightowl&show_icons=true)
+
+
  
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jmoseka">
