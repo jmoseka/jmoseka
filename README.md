@@ -22,10 +22,7 @@ A passionate software engineering student at Alx - Holberton.
 
 
 
- ### Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=nightowl)](https://git.io/streak-stats)
-               ![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=nightowl&show_icons=true)
  
  
   ### Most Used Languages
