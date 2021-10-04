@@ -17,8 +17,8 @@ A passionate software engineering student at Alx - Holberton.
 
 </p>
 
- ### Latest Post
- <a href="https://mila.hashnode.dev/structure-and-typedef"> Structures and typedef </a>
+ ### My Latest Post
+<li> <a href="https://mila.hashnode.dev/structure-and-typedef"> Structures and typedef </a> </li>
  
  Read more blogs<a href="https://hashnode.com/@Mila/"> here</a>.
  
