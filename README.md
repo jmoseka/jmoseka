@@ -17,7 +17,10 @@ A passionate software engineering student at Alx - Holberton.
 
 </p>
 
- #### Read my technical blogs <a href="https://hashnode.com/@Mila/">here</a> at Hashnode
+ ### Latest Post
+ <a href="https://mila.hashnode.dev/structure-and-typedef"> Structures and typedef </a>
+ 
+ Read more blogs<a href="https://hashnode.com/@Mila/">here</a>.
  
   ### Github Stats
 
