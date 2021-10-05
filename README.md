@@ -34,6 +34,10 @@ A passionate software engineering student at Alx - Holberton.
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jmoseka">
 </a>
+
+
+[![Jamila's github activity graph](https://activity-graph.herokuapp.com/graph?username=jmoseka&theme=minimal)](https://github.com/jmoseka/github-readme-activity-graph)
+
 <!--
 **jmoseka/jmoseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
