@@ -23,7 +23,7 @@ A passionate software engineering student at Alx - Holberton.
  Read more blogs<a href="https://hashnode.com/@Mila/"> here</a>.
  
   ### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmoseka&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=holi-theme&show_icons=true)
 
   ### Most Used Languages
