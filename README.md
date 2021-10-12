@@ -18,9 +18,9 @@ A passionate software engineering student at Alx - Holberton.
 </p>
 
  ### My Latest Post
-<li> <a href="https://mila.hashnode.dev/structure-and-typedef"> Structures and typedef </a> </li> </br>
+<li> <a href="https://mila.hashnode.dev/structure-and-typedef"> Function Pointers </a> </li> </br>
  
- Read more blogs<a href="https://hashnode.com/@Mila/"> here</a>.
+ Read more blogs<a href="https://mila.hashnode.dev/function-pointers"> here</a>.
  
   ### Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmoseka&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
