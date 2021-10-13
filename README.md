@@ -1,5 +1,8 @@
 
-## Hi there 👋 I'm Jamila Moseka
+### Hi there 👋 I'm 
+<p align="center"> 
+<h1>Jamila Moseka</h1>
+ </p>
 
 A passionate software engineering student at Alx - Holberton.
 
