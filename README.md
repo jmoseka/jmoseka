@@ -1,4 +1,3 @@
-<img src="read.gif">
 
 ### Hi there 👋 
 
