@@ -1,16 +1,8 @@
+<img src="read.gif">
 
-### Hi there 👋 I'm 
-<p align="center"> 
-<h1>Jamila Moseka</h1>
- </p>
+### Hi there 👋 
 
-A passionate software engineering student at Alx - Holberton.
-
-- 🔭 I’m currently working on C projects
-- 🌱 Learning C programming language
-- 📫 Reach me on **jamylam3@gmail.com**
-- 💬 Ask me about C programming
-- 🤔 I’m looking for help with C, Technical Writting, Python, JS, Front End Development Technologies
+I'm Jamila Moseka, a passionate software engineering student at Alx - Holberton. I'm currently working on C projects. Ask me about C programming language. I am looking for help with technical writting, Python, JS and Front End Development technologies. Reach me on **jamylam3@gmail.com**
 
 ### Connect with me:
 <p align="left">
