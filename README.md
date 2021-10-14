@@ -1,3 +1,4 @@
+<img src="profile-banner.gif">
 
  ### Hi there 👋
  I'm Jamila Moseka, a passionate software engineering student at Alx - Holberton.
