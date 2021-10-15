@@ -17,19 +17,19 @@
 <h4> 📘Latest Blog Articles </h4>
 <!-- BLOG-POST-LIST:START -->
 <li> <a href="https://mila.hashnode.dev/structure-and-typedef"> Function Pointers </a> </li>
+
  Read more blogs<a href="https://mila.hashnode.dev/function-pointers"> here</a>.
 <!-- BLOG-POST-LIST:END -->
 
   ### Github Stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=omni)](https://git.io/streak-stats)
- 
- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoseka&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
- 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jmoseka&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
- 
 
+| | |
+|:-------------------------:|:-------------------------:|
+|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=omni)](https://git.io/streak-stats)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=omni&show_icons=true)|
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=omni&show_icons=true) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jmoseka&row=2&column=3&margin-w=15&margin-h=15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoseka&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
+ 
   
   <br/>
  
