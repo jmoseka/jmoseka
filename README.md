@@ -10,8 +10,8 @@
 <hr>
 <h4> Connect with me: </h4>
 <p align="left">
-<a href = "https://www.linkedin.com/in/jamila-moseka-2295861a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/milamoseka"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+ 
+<a href = "https://www.linkedin.com/in/jamila-moseka-2295861a4/"><img src="linkedin (3).png"/></a>  &nbsp; <a href = "https://twitter.com/milamoseka"><img src="twitter (2).png"/></a>
 </p>
 
 <h4> 📘Latest Blog Articles </h4>
