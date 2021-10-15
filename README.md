@@ -22,6 +22,7 @@
 <br>
 Read more blogs<a href="https://mila.hashnode.dev/function-pointers"> here</a>.
 <!-- BLOG-POST-LIST:END -->
+<hr>
 
   ### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoseka&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
