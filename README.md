@@ -7,23 +7,28 @@
 - 💬 Ask me about C programming
 - 📫 Reach me on jamylam3@gmail.com
 
-
-### Connect with me:
+<hr>
+<h4> Connect with me: </h4>
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/jamila-moseka-2295861a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/milamoseka"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 </p>
 
- ### My Latest Post
-<li> <a href="https://mila.hashnode.dev/structure-and-typedef"> Function Pointers </a> </li> </br>
- 
+<h4> 📘Latest Blog Articles </h4>
+<!-- BLOG-POST-LIST:START -->
+<li> <a href="https://mila.hashnode.dev/structure-and-typedef"> Function Pointers </a> </li>
  Read more blogs<a href="https://mila.hashnode.dev/function-pointers"> here</a>.
- 
+<!-- BLOG-POST-LIST:END -->
+
   ### Github Stats
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=omni)](https://git.io/streak-stats)
+ 
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoseka&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
+ 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=jmoseka&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=omni&show_icons=true) 
   
   <br/>
