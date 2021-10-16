@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on C projects
 - 🤔 I’m looking for help with C programming language, Python, Front End Development Technologies
 - 💬 Ask me about C programming
-- 📫 Reach me on jamylam3@gmail.com
+- 📫 Reach me on jamylam3@gmail.
 
 <hr>
 <h4> Connect with me: </h4>
