@@ -4,7 +4,7 @@
  I'm Jamila Moseka, a passionate software engineering student at Alx - Holberton.
 - 🔭 I’m currently working on C projects
 - 🤔 I’m looking for help with C programming language, Python, Front End Development Technologies
-- 💬 Ask me about C programming
+- 💬 Ask me about C 
 - 📫 Reach me on jamylam3@gmail
 
 <hr>
