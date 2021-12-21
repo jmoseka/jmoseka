@@ -1,7 +1,7 @@
 
  ### Hi there 👋
  I'm Jamila Moseka, a passionate software engineering student at Alx - Holberton.
-- 🔭 I’m currently working on C projects
+- 🔭 I’m currently working on Python projects
 - 🤔 I’m looking for help with C programming language, Python, Front End Development Technologies
 - 💬 Ask me about C programming
 - 📫 Reach me on jamylam3@gmail.com
