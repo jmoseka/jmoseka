@@ -13,13 +13,10 @@
 <a href = "https://www.linkedin.com/in/jamila-moseka-2295861a4/"><img src="linkedin (3).png"/></a>  &nbsp; <a href = "https://twitter.com/milamoseka"><img src="twitter (2).png"/></a>
 </p>
 
-<h4> 📘Latest Blog Articles </h4>
+<h4> 📘Feel free to read some of my blogs </h4>
 <!-- BLOG-POST-LIST:START -->
-<li> <a href="https://mila.hashnode.dev/function-pointers"> Function Pointers </a> </li>
-<li> <a href="https://mila.hashnode.dev/structure-and-typedef"> Structure and Typedef </a> </li>
-<li> <a href="https://mila.hashnode.dev/static-library"> Static Library </a> </li>
-<br>
-Read more blogs<a href="https://mila.hashnode.dev/function-pointers"> here</a>.
+<a href="https://mila.hashnode.dev">Hashnode </a>
+
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
