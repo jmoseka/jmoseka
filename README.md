@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Python projects
 - 📫 Reach me on jamylam3@gmail.com
 
+<!-- 
 <hr>
 <h4> Connect with me: </h4>
 <p align="left">
@@ -13,8 +14,8 @@
 
 <h4> 📘Feel free to read some of my blogs </h4>
 <!-- BLOG-POST-LIST:START -->
-<a href="https://mila.hashnode.dev">Hashnode </a>
-
+<!-- <a href="https://mila.hashnode.dev">Hashnode </a>
+-->
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
