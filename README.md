@@ -1,7 +1,7 @@
 
  ### Hi there 👋
- I'm Jamila Moseka, a passionate software developer and a software engineering student at Alx - Holberton.
-- 🔭 I’m currently working on Python projects
+ I'm Jamila Moseka, a passionate software developer
+<!-- - 🔭 I’m currently working on Python projects -->
 - 📫 Reach me on jamylam3@gmail.com
 
 <!-- 
