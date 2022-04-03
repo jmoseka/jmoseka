@@ -1,8 +1,10 @@
 
- ### Hi there 👋
- I'm Jamila Moseka, a passionate software developer
-<!-- - 🔭 I’m currently working on Python projects -->
+ ## Hi there 👋
+### I'm Jamila Moseka, a passionate software developer
+ 🔭 I’m currently working on building projects with Html, Css, Js, Sass, Bootstrap
+
 - 📫 Reach me on jamylam3@gmail.com
+- 👤 [LinkedIn](https://www.linkedin.com/in/jamila-moseka/)
 
 <!-- 
 <hr>
