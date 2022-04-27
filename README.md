@@ -5,6 +5,7 @@
 
 - 📫 Reach me on jamylam3@gmail.com
 - 👤 [LinkedIn](https://www.linkedin.com/in/jamila-moseka/)
+- 🐤 [Twitter](https://twitter.com/milamoseka)
 
 <!-- 
 <hr>
