@@ -27,7 +27,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jmoseka&row=2&column=3&margin-w=7&margin-h=10&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoseka&theme=omni&show_icons=true) 
 
-  nkn
   <br/>
  
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
