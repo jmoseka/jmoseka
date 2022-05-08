@@ -1,5 +1,5 @@
 
- ## Hi there 👋h
+ ## Hi there 👋
 
 ### I'm Jamila Moseka, a passionate software developer
  🔭 I’m currently working on building projects with Html, Css, Js, Sass, Bootstrap
