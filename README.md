@@ -3,11 +3,13 @@
 
  ## Hi there 👋
 
-👩‍💻 I'm Jamila Moseka, a passionate software developer currently building projects with js, css, html and bootstrap.
+👩‍💻 About me : I'm Jamila Moseka, a passionate software developer currently building projects with js, css, html and bootstrap. 
 
-📚 I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
+📚 Current Education: I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
 
-💼 👔 I am really excited about an opportunity to work remotely with a strong tech company and I am proud of the steps I am taking to achieve this.
+💼 Hiring:  👔 I am really excited about an opportunity to work remotely with a strong tech company.
+
+🎈 Fun fact:  I have an enthusiastic bubbly personality
 
 ### Connect with me
 
@@ -25,10 +27,16 @@ Name | Badges
 **Languages**  |  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 **Frameworks** | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> 
 **Linters**  | <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-
 </p>
 <br>
 
+## 👔 Soft skills
+
+✅ Work collaboratively in a team
+
+✅ Meet tight deadlines
+
+✅ Good communication skills
 <!-- 
 <hr>
 <h4> Connect with me: </h4>
