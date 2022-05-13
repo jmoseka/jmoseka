@@ -3,13 +3,14 @@
 
  ## Hi there 👋
 
-👩‍💻 About me : I'm Jamila Moseka, a passionate software developer currently building projects with js, css, html and bootstrap. 
+👩‍💻 About me: I'm Jamila Moseka, a passionate and determined software developer currently building projects with JS, CSS, HTML, and Bootstrap. 
 
 📚 Current Education: I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
 
 💼 Hiring: I am really excited and available to work remotely with a strong tech company.
 
 🎈 Fun fact:  I have an enthusiastic bubbly personality
+
 
 ### Connect with me
 
@@ -20,7 +21,7 @@
 <!-- TOOLS AND FRAMEWORKS -->
 <br>
 
-## 🛠 Tools and Framework
+### 🛠 Tools and Framework
 
 Name | Badges
 --- | --- 
@@ -28,15 +29,22 @@ Name | Badges
 **Frameworks** | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> 
 **Linters**  | <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 </p>
-<br>
 
-## 👔 Soft skills
+<hr>
+
+### 👔 Soft skills
 
 ✅ Work collaboratively in a team
 
 ✅ Meet tight deadlines
 
 ✅ Good communication skills
+
+<hr>
+
+### 📘Feel free to read some of my blogs
+<a href="https://mila.hashnode.dev">Hashnode </a>
+
 <!-- 
 <hr>
 <h4> Connect with me: </h4>
@@ -45,10 +53,7 @@ Name | Badges
 <a href = "https://www.linkedin.com/in/jamila-moseka-2295861a4/"><img src="linkedin (3).png"/></a>  &nbsp; <a href = "https://twitter.com/milamoseka"><img src="twitter (2).png"/></a>
 </p>
 
-<h4> 📘Feel free to read some of my blogs </h4>
-<!-- BLOG-POST-LIST:START -->
-<!-- <a href="https://mila.hashnode.dev">Hashnode </a>
--->
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
