@@ -7,7 +7,7 @@
 
 📚 Current Education: I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
 
-💼 Hiring:  👔 I am really excited about an opportunity to work remotely with a strong tech company.
+💼 Hiring: I am really excited and available to work remotely with a strong tech company.
 
 🎈 Fun fact:  I have an enthusiastic bubbly personality
 
