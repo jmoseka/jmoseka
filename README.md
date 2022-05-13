@@ -3,13 +3,13 @@
 
  ## Hi there 👋
 
-👩‍💻 About me: I'm Jamila Moseka, a passionate and determined software developer currently building projects with JS, CSS, HTML, and Bootstrap. 
+👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer currently building projects with JS, CSS, HTML, and Bootstrap. 
 
-📚 Current Education: I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
+📚 <b>Current Education:</b> I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
 
-💼 Hiring: I am really excited and available to work remotely with a strong tech company.
+💼 <b>Hiring:</b> I am really excited and available to work remotely with a strong tech company.
 
-🎈 Fun fact:  I have an enthusiastic bubbly personality
+🎈 <b>Fun fact:</b>  I have an enthusiastic bubbly personality
 
 
 ### Connect with me
