@@ -3,11 +3,11 @@
 
  ## Hi there 👋
 
-👩‍💻 I'm Jamila Moseka, a passionate software developer currently building projects with js, css, js and bootstrap.
+👩‍💻 I'm Jamila Moseka, a passionate software developer currently building projects with js, css, html and bootstrap.
 
 📚 I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
 
-😃 I am really excited about an opportunity to work remotely with a strong tech company and I am proud of the steps I am taking to achieve this.
+💼 👔 I am really excited about an opportunity to work remotely with a strong tech company and I am proud of the steps I am taking to achieve this.
 
 ### Connect with me
 
