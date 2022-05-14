@@ -1,7 +1,6 @@
+ ## Hi there 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
-
- ## Hi there 👋
 
 👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer currently building projects with JS, CSS, HTML, and Bootstrap. 
 
