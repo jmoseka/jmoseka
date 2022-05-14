@@ -8,7 +8,7 @@
 
 💼 <b>Hiring:</b> I am really excited and available to work remotely with a strong tech company.
 
-🎈 <b>Fun fact:</b>  I have an enthusiastic bubbly personality
+🎈 <b>Fun fact:</b>  My first favourite movie was Terminator. It was simply ahead of its time
 
 
 ### Connect with me
