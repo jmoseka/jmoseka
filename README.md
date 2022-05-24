@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer currently building projects with JS, CSS, HTML, and Bootstrap. 
+👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer currently building projects with JS, React, Bootstrap, CSS, SASS, HTML. 
 
 📚 <b>Current Education:</b> I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
 
