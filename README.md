@@ -6,7 +6,7 @@
 
 👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer currently building projects with JS, React, Bootstrap, CSS, SASS, HTML. 
 
-📚 <b>Current Education:</b> I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
+📚 <b>Current Education:</b> I am studying at [Microverse](https://www.microverse.org/), an online training school where I code 8 hours a day remotely with other developers 
 
 💼 <b>Hiring:</b> I am really excited and available to work remotely with a strong tech company.
 
