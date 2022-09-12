@@ -6,7 +6,11 @@
 
 👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer seeking to use proven skills in web development to meet business needs. 
 
-📚 <b>Current Education:</b> I am learning and building projects with React, Javascript, css and html
+📚 <b>Current Education:</b> I am learning and building projects with :
+
+- **Frontend:** React, Javascript, Bootstrap, css, html
+
+- **Backend:** Ruby, Ruby on Rails
 
 💼 <b>Hiring:</b> I am really excited and available to work remotely with a strong tech company.
 
