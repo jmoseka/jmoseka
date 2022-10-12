@@ -6,7 +6,7 @@
 
 👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer seeking to use proven skills in web development to meet business needs. 
 
-📚 <b>Current Education:</b> I am learning and building projects with :
+🛠 <b>Skills</b>
 
 - **Frontend:** React, Javascript, Bootstrap, css, html
 
