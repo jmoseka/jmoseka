@@ -50,7 +50,7 @@ Name | Badges
 <hr>
 
 <!-- ### 📘Feel free to read some of my blogs -->
-<a href="https://mila.hashnode.dev">Hashnode </a>
+<!-- <a href="https://mila.hashnode.dev">Hashnode </a> -->
 
 <!-- 
 <hr>
