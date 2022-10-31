@@ -49,7 +49,7 @@ Name | Badges
 
 <hr>
 
-### 📘Feel free to read some of my blogs
+<!-- ### 📘Feel free to read some of my blogs -->
 <a href="https://mila.hashnode.dev">Hashnode </a>
 
 <!-- 
