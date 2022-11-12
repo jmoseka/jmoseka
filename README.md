@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined software developer seeking to use proven skills in web development to meet business needs. 
+👩‍💻 <b>About me:</b> I'm Jamila Moseka, a passionate and determined web developer seeking to use proven skills in web development to meet business needs. 
 
 🛠 <b>Skills</b>
 
