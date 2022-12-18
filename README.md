@@ -81,7 +81,7 @@ Name | Badges
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on C projects
+- 🔭 I’m currently working C projects
 - 🌱 I’m currently learning C programming language
 - 👯 I’m looking to collaborate on C programming, CSS and html
 - 🤔 I’m looking for help with C programming language, Python, Front End Development Technologies
