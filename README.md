@@ -4,19 +4,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 ### 👩‍💻 About me
-I'm Jamila Moseka, a passionate and determined web developer seeking to use proven skills in web development to meet business needs. 
+I'm Jamila Moseka, a passionate and determined Frontend web developer seeking to use proven skills in web development to meet business needs. 
 
 ### 🛠 <b>Skills</b>
 
-- **Frontend:** React, Javascript, Bootstrap, css, html
+- **Frontend:** ReactJs, Tailwindcss, Bootstrap, Scss, Html
 
-- **Backend:** Ruby, Ruby on Rails
+- **Design Tools:** Figma
 
 ### 💼 <b>Hiring:</b> 
 I am really excited and available to work remotely with a strong tech company.
 
 ### 🎈Fun fact
-My first favourite movie was Terminator.
+My first favorite movie was Terminator.
 
 ### Connect with me
 <a>jamylam3@gmail.com</a>
