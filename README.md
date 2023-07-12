@@ -8,7 +8,7 @@ I'm Jamila Moseka, a passionate and determined Frontend web developer seeking to
 
 ### 🛠 <b>Skills</b>
 
-- **Frontend:** ReactJs, Tailwindcss, Bootstrap, Scss
+- **Frontend:** Js, ReactJs, Tailwindcss, Bootstrap, Scss
 
 - **Design Tools:** Figma
 
