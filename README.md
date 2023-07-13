@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 ### 👩‍💻 About me
-I'm Jamila Moseka, a passionate and determined Frontend web developer seeking to use proven skills in front-web development to meet business needs. 
+I'm Jamila Moseka and I love to create visually captivating and functional websites that meet business needs. 
 
 ### 🛠 <b>Skills</b>
 
@@ -52,6 +52,7 @@ Name | Badges
 
 <hr>
 
+
 <!-- ### 📘Feel free to read some of my blogs -->
 <!-- <a href="https://mila.hashnode.dev">Hashnode </a> -->
 
@@ -59,7 +60,7 @@ Name | Badges
 <hr>
 <h4> Connect with me: </h4>
 <p align="left">
- 
+ passionate and determined Frontend web developer seeking to use proven skills in front-web development to meet business needs. 
 <a href = "https://www.linkedin.com/in/jamila-moseka-2295861a4/"><img src="linkedin (3).png"/></a>  &nbsp; <a href = "https://twitter.com/milamoseka"><img src="twitter (2).png"/></a>
 </p>
 
