@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 ### 👩‍💻 About me
-I'm Jamila Moseka and I love to create visually captivating and functional websites that meet business needs. 
+I'm Jamila Moseka and I love to create visually captivating and functional websites that meet users and business needs. 
 
 ### 🛠 <b>Skills</b>
 
