@@ -10,7 +10,7 @@ I'm Jamila Moseka and I love to create visually captivating and functional websi
 
 - **Frontend:** JavaScript (ES6+), React/Redux, Tailwindcss, Bootstrap, Scss
 
-- **Tools:** Figma, Git, Npm
+- **Tools:** Figma, Git, Webpack
 
 ### 💼 <b>Hiring:</b> 
 I am really excited and available to work remotely, hybrid, or onsite with a strong tech company.
