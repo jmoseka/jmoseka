@@ -28,6 +28,8 @@ My first favorite movie was Terminator.
 <!-- TOOLS AND FRAMEWORKS -->
 <be>
 
+<hr>
+
 ### 🛠 Tools and Framework
 
 Name | Badges
