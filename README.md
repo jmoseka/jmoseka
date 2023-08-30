@@ -1,9 +1,10 @@
-## Hi there 👋
+
 <!--  ![gitartwork](gitartwork.svg) -->
+<!--## Hi there 👋 -->
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> -->
 
-### 👩‍💻 About me
+<!-- ### 👩‍💻 About me
 I'm Jamila Moseka and I love to create visually captivating and functional websites that meet users and business needs. 
 
 <!-- ### 🛠 <b>Skills</b>
@@ -30,7 +31,7 @@ My first favorite movie was Terminator.
 
 <hr>
 
-### 🛠 Tools and Framework
+<!-- ### 🛠 Tools and Framework
 
 Name | Badges
 --- | --- 
@@ -69,7 +70,7 @@ Name | Badges
 
 <!-- BLOG-POST-LIST:END -->
 
-## 📈 Github Stats
+<!-- ## 📈 Github Stats
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmoseka&theme=omni)](https://git.io/streak-stats)
 
@@ -84,9 +85,9 @@ Name | Badges
  
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jmoseka">
-</a>
+</a> -->
 
-**jmoseka/jmoseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **jmoseka/jmoseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
