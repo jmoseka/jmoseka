@@ -1,12 +1,12 @@
 ## Hi there 👋
 <!--  ![gitartwork](gitartwork.svg) -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> -->
 
 ### 👩‍💻 About me
 I'm Jamila Moseka and I love to create visually captivating and functional websites that meet users and business needs. 
 
-### 🛠 <b>Skills</b>
+<!-- ### 🛠 <b>Skills</b>
 
 - **Frontend:** JavaScript (ES6+), React/Redux, Tailwindcss, Bootstrap, Scss
 
@@ -23,10 +23,10 @@ My first favorite movie was Terminator.
 
 
  <a href="https://www.linkedin.com/in/jamila-moseka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/milamoseka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/milamoseka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
 <!-- TOOLS AND FRAMEWORKS -->
-<br>
+<be>
 
 ### 🛠 Tools and Framework
 
