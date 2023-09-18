@@ -14,7 +14,7 @@ I'm Jamila Moseka and I love to create visually captivating and functional websi
 - **Tools:** Figma, Git, Webpack
 
 ### 💼 <b>Hiring:</b> 
-I am really excited and available to contribute to your team's success.
+I am really excited and available to contribute to the team's success.
 
 ### 🎈Fun fact
 My first favorite movie was Terminator.
@@ -24,9 +24,7 @@ My first favorite movie was Terminator.
 
 
  <a href="https://www.linkedin.com/in/jamila-moseka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/milamoseka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-
-TOOLS AND FRAMEWORKS 
+<a href="https://twitter.com/milamoseka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 
  ### 🛠 Tools and Framework
 
