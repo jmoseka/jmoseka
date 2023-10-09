@@ -3,28 +3,35 @@
 <!--## Hi there 👋 -->
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> -->
+<img src="banner.png" />
 
  ### 👩‍💻 About me
- I love to create visually captivating and functional websites that meet users and business needs. 
+ Hi there, I'm Mila and I love to create visually captivating and functional websites that meet users and business needs.  With a keen eye for detail and a love for clean code, I strive to deliver exceptional user experiences through my work.
+ 
+💻   I'm well-versed in ReactJS, Tailwindcss, Bootstrap, SASS, and HTML, and have hands-on experience with UI design tools like Figma, leveraging these technologies. I enjoy transforming designs into responsive and intuitive web interfaces that captivate users.
 
+### What am I up to? 
+
+🌱 Currently, I'm embarking on an exciting journey into the world of full-stack development. I'm diving deep into the realm of Node.js, Express, and MongoDB, as I believe they form the foundation of creating robust and scalable web applications.
+
+💡 As I progress further, my sights are set on the MERN stack (MongoDB, Express, React, and Node.js). By combining the power of these technologies, I'll be able to develop end-to-end web applications with stunning user interfaces and performant backend architecture.
+
+📚 Learning is a continuous process, and I'm thrilled to be on this journey of growth and exploration. Join me as I expand my skills in full-stack development and bring ideas to life through innovative and user-centric solutions.
+
+### Connect with me
+<a>jamylam3@gmail.com</a>
+
+<a href="https://www.linkedin.com/in/jamila-moseka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/mi_wanga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+
+
+<hr /> 
  ### 🛠 <b>Skills</b>
 
 - **Frontend:** JavaScript (ES6+), React/Redux, Tailwindcss, Bootstrap, Scss
 
 - **Tools:** Figma, Git, Webpack
 
-### 💼 <b>Hiring:</b> 
-I am really excited and available to contribute to the team's success.
-
-### 🎈Fun fact
-My first favorite movie was Terminator.
-
-### Connect with me
-<a>jamylam3@gmail.com</a>
-
-
- <a href="https://www.linkedin.com/in/jamila-moseka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/milamoseka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 
  ### 🛠 Tools and Framework
 
