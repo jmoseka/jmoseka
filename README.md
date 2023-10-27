@@ -29,7 +29,7 @@
 
 ### 🎨 Skills
 
-- **Frontend:** JavaScript (ES6+), Nextjs, ReactJs, Tailwindcss, Bootstrap, Scss
+- **Frontend:** JavaScript (ES6+), ReactJs, Tailwindcss, Bootstrap, Scss | learning Nextjs,
 
 - **Tools:** Figma, Git, Webpack
 
