@@ -6,9 +6,9 @@
 <img src="banner.png" />
 
  ### 👩‍💻 About me
- Hi there, I'm Mila and I love to create visually captivating and functional websites that meet users and business needs. With a keen eye for detail and a love for clean code, I strive to deliver exceptional user experiences through my work.
+ Hi there, I'm Mila, and I have a genuine passion for building captivating web interfaces.  With a keen eye for detail and a lover of writing clean, efficient code, I strive to deliver exceptional user experiences through my work.
  
-💻   I'm well-versed in ReactJS, Tailwindcss, Bootstrap, SASS, CSS, and I have hands-on experience with UI design tools like Figma, leveraging these technologies. I enjoy transforming designs into responsive and intuitive web interfaces that captivate users.
+💻   I'm well-versed in NextJS, ReactJS, Tailwindcss, Bootstrap, SASS, and CSS. Additionally, I have practical experience using UI design tools such as Figma. My joy lies in turning designs into web interfaces that are not only responsive but also create an engaging experience for users.
 
 ### What am I up to? 
 
