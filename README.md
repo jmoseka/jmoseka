@@ -32,7 +32,7 @@
 - **Frontend:** JavaScript (ES6+), ReactJs, Tailwindcss, Bootstrap, Scss | learning Nextjs,
 
 - **Tools:** Figma, Git, Webpack
-
+- 
 
  ### 🛠 Tools and Framework
 
@@ -46,7 +46,6 @@ Name | Badges
 
 </p>
  
-
 <hr>
 
 ### 👔 Soft skills
