@@ -32,7 +32,6 @@
 - **Frontend:** JavaScript (ES6+), NextJs, ReactJs, Tailwindcss, Bootstrap, Scss
 
 - **Tools:** Figma, Git, Webpack
-- 
 
  ### 🛠 Tools and Framework
 
