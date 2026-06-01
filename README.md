@@ -6,9 +6,9 @@
 <img src="banner.png" />
 
  ### 👩‍💻 About me
- Hi there, I'm Mila, and I have a genuine passion for building captivating web interfaces.
+ Hi there, I'm Mila <!-- and I have a genuine passion for building captivating web interfaces. -->
  
-💻   I'm well-versed in NextJS, ReactJS, Tailwindcss, Bootstrap, SASS. My joy lies in turning designs into web interfaces that are not only responsive but also create an engaging experience for users.
+<!--💻   I'm well-versed in NextJS, ReactJS, Tailwindcss, Bootstrap, SASS. My joy lies in turning designs into web interfaces that are not only responsive but also create an engaging experience for users.
 
 ### What am I up to? 
 
